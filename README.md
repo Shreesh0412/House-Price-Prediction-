@@ -34,4 +34,6 @@ Execute the main script to start the application: **python main.py**
 * **Negative Input:** Enter -500 $\rightarrow$ Expect "Positive values only" warning
 
 ## 6. Screenshots 
-
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b6ec730a-6c7a-46af-a146-75315b0d108f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ec37f7ef-f30d-4a98-a127-036bf14a7ba3" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4a312bee-fc51-4c46-8aa7-3da2adde3683" />
