@@ -1,7 +1,7 @@
 # House-Price-Prediction
 
 ## 1. Project Overview
-This project is a Machine Learning application designed to estimate the market value of residential properties based on key features. It utilizes the **Linear Regression** algorithm to analyze historical housing data and predict prices based on user inputs. This project was built to demonstrate the practical application of data science concepts, including data loading, model training, and user interaction logic.
+This project is a Machine Learning application designed to estimate the market value of residential properties based on key features. It utilizes the **Linear Regression** method for predicting continuous numerical values (house prices) and to model the relationship between independent variables and a dependent variable using a linear approach and **Supervised Learning** method to analyze patterns from historical data to make predictions on new, unseen data. This project was built to demonstrate the practical application of data science concepts, including data loading, model training, and user interaction logic.
 
 ## 2. Features
 The project includes the following functional modules:
