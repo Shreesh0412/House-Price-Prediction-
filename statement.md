@@ -1,7 +1,7 @@
 # House Price Prediction System
 
 ## 1. Problem Statement
-
+Determining the fair market value of a residential property is a complex challenge for buyers and sellers alike. Property prices are influenced by multiple factors such as the total area, the number of bedrooms (BHK), and the age of the building. Without a data-driven approach, stakeholders often rely on intuition or incomplete information, leading to overpricing or undervaluation. This project aims to solve this by providing an automated tool that uses historical data to estimate accurate property prices.
 
 ## 2. Scope of the Project
 The scope of this project is to develop a machine learning-based application that:
